@@ -1,0 +1,9 @@
+EXTENSÕES CHROME
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR
+https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal/related?hl=pt-BR
+
+LINKS
+https://flexbox.help/
+https://origamid.com/projetos/flexbox-guia-completo/
+https://tableless.com.br/propriedade-position-do-css/
+https://nekocalc.com/px-to-em-converter
